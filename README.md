@@ -1,4 +1,4 @@
-# 🎬 CineGraphX
+# 🎬 Cine GraphX
 
 **Movies Data Manager Using Core Data Structures (No STL)**
 FAST-NUCES | Fall 2025
